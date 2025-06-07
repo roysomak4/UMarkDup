@@ -1,0 +1,18 @@
+{
+  "registry_host": "ghcr.io",
+  "namespace": "roysomak4",
+  "app": {
+    "name": "UMarkIt",
+    "major_v": "0",
+    "minor_v": "1",
+    "patch": "0"
+  },
+  "prog": {
+    "name": "cpp",
+    "version": "20"
+  },
+  "os": {
+    "name": "debian",
+    "version": "12.11-slim"
+  }
+}
